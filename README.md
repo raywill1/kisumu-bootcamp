@@ -1,1 +1,1 @@
-# kisumu-bootcamp
+# web-dev kisumu-bootcamp
